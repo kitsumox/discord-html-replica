@@ -5,3 +5,5 @@ There are comments in the code telling you what to do, HTML file will also be in
 Apologies if the code is buggy or has issues - I'll try to fix them if reported!
 <br>
 If you want something added also, please let me know. I am new to Github and do not really use it so I may not see or get to updates fast. o kule e ale!
+<br><br><br>
+live demo Here: <a href="https://change-of-heart.neocities.org/discord">https://change-of-heart.neocities.org/discord</a>
